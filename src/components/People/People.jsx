@@ -24,7 +24,7 @@ const People = () => {
         <div className={`flexCenter ${css.heading}`}>
           <span className="primaryText">Skills</span>
           <p style={{ marginTop: "2rem" }}>
-            Here are some of the skills we excel in:
+            Here are some of the skills I excel in:
           </p>
         </div>
 
